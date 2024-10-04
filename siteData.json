@@ -7,7 +7,6 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
         "lewis-lye": "Lewis Lye",
         "wang-hongyanyan": "Wang Hongyanyan",
         "tan-soo-yap": "Tan Soo Yap",
@@ -39,7 +38,7 @@
     {
       "src": "DeveloperGuide.md",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "t-assistant-developer-guide": "T_Assistant Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -106,7 +105,7 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "t-assistant-user-guide": "T_Assistant User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -130,7 +129,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "t-assistant": "T_Assistant"
       },
       "headingKeywords": {}
     },
