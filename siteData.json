@@ -8,7 +8,7 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "john-doe": "John Doe",
-        "lewis": "Lewis",
+        "lewis-lye": "Lewis Lye",
         "wang-hongyanyan": "Wang Hongyanyan",
         "tan-soo-yap": "Tan Soo Yap",
         "desiree-sng": "Desiree Sng"
@@ -38,7 +38,6 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
         "ab-3-developer-guide": "AB-3 Developer Guide",
         "acknowledgements": "Acknowledgements",
