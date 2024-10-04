@@ -37,6 +37,7 @@
     },
     {
       "src": "DeveloperGuide.md",
+      "title": "Developer Guide",
       "headings": {
         "t-assistant-developer-guide": "T_Assistant Developer Guide",
         "acknowledgements": "Acknowledgements",
