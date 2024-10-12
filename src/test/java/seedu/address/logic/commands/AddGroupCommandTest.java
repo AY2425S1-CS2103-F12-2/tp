@@ -22,6 +22,7 @@ import seedu.address.model.AddressBook;
 import seedu.address.model.Model;
 import seedu.address.model.ReadOnlyAddressBook;
 import seedu.address.model.ReadOnlyUserPrefs;
+import seedu.address.model.State;
 import seedu.address.model.group.Group;
 import seedu.address.model.group.GroupName;
 import seedu.address.model.student.Student;
@@ -183,6 +184,26 @@ public class AddGroupCommandTest {
 
         @Override
         public void updateFilteredPersonList(Predicate<Student> predicate) {
+            throw new AssertionError("This method should not be called.");
+        }
+
+        @Override
+        public void updateFilteredGroupList(Predicate<Group> predicate) {
+            throw new AssertionError("This method should not be called.");
+        }
+
+        @Override
+        public void setStateStudents() {
+            throw new AssertionError("This method should not be called.");
+        }
+
+        @Override
+        public void setStateGroups() {
+            throw new AssertionError("This method should not be called.");
+        }
+
+        @Override
+        public State getState() {
             throw new AssertionError("This method should not be called.");
         }
     }
