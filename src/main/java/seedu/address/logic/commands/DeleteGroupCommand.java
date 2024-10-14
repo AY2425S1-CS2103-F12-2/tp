@@ -13,7 +13,7 @@ import seedu.address.model.group.GroupName;
 import seedu.address.model.student.Student;
 
 /**
- * Deletes group from the address book.
+ * Deletes group from the address book. t
  */
 public class DeleteGroupCommand extends Command {
     public static final String COMMAND_WORD = "delete_group";
@@ -21,7 +21,7 @@ public class DeleteGroupCommand extends Command {
     public static final String MESSAGE_USAGE = COMMAND_WORD
         + ": Deletes the group identified by the group name used.\n"
         + "Parameters: GROUP_NAME\n"
-        + "Example: " + COMMAND_WORD + PREFIX_GROUP_NAME + " " + "CS2103";
+        + "Example: " + COMMAND_WORD + " " + PREFIX_GROUP_NAME + " " + "CS2103";
 
     public static final String MESSAGE_DELETE_GROUP_SUCCESS = "Deleted Group: %1$s";
     public static final String MESSAGE_STUDENTS_AFFECTED = "Number of students affected: %1$s";
