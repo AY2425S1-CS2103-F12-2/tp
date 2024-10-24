@@ -37,7 +37,6 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
         "t-assistant-developer-guide": "T_Assistant Developer Guide",
         "acknowledgements": "Acknowledgements",
@@ -50,6 +49,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "delete-group-feature": "Delete Group feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -131,6 +131,13 @@
       "title": "",
       "headings": {
         "t-assistant": "T_Assistant"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/ghos7ie.md",
+      "headings": {
+        "project-t-assistant": "Project: T_Assistant"
       },
       "headingKeywords": {}
     },
