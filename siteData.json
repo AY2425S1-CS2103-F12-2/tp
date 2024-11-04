@@ -110,6 +110,7 @@
       "title": "User Guide",
       "headings": {
         "t-assistant-user-guide": "T_Assistant User Guide",
+        "navigation": "Navigation",
         "quick-start": "Quick start",
         "features": "Features",
         "student-commands": "Student Commands",
