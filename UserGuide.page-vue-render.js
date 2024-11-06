@@ -155,7 +155,7 @@ with(this){return _c('p',[_c('strong',[_v("Format")]),_v(": "),_c('code',{pre:tr
 with(this){return _c('h5',{attrs:{"id":"notes-5"}},[_v("Notes"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#notes-5","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("This feature only removes a student from a group, not from T_Assistant.")]),_v(" "),_c('li',[_v("The student and group must exist in T_Assistant.")]),_v(" "),_c('li',[_v("The student must be in that group.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
+with(this){return _c('ol',[_c('li',[_v("This feature only removes a student from a group, not from T_Assistant.")]),_v(" "),_c('li',[_v("The student must exist in T_Assistant and be in a group.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
 with(this){return _c('h5',{attrs:{"id":"usage-scenario-5"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-5","onclick":"event.stopPropagation()"}})])}
@@ -164,10 +164,10 @@ with(this){return _c('h5',{attrs:{"id":"usage-scenario-5"}},[_v("Usage Scenario"
 with(this){return _c('h6',{attrs:{"id":"scenario-1-deleting-james-ho-from-cs2103-f11-1"}},[_v("Scenario #1: Deleting "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("James Ho")]),_v(" from "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F11-1")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-deleting-james-ho-from-cs2103-f11-1","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("You can begin this command on any panel.")]),_v(" "),_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("del_s_g gn/CS2103-F11-1 sno/A0123456A")])])])}
+with(this){return _c('ol',[_c('li',[_v("You can begin this command on any panel.")]),_v(" "),_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("del_s_g sno/A0123456A")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("del_s_g gn/CS2103-F11-1 sno/A0123456A")]),_v(".")])}
+with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("del_s_g sno/A0123456A")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/screenshots/del_s_g.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/screenshots/del_s_g.png","alt":"del_s_g"}})])])}
@@ -725,6 +725,6 @@ with(this){return _c('h3',{attrs:{"id":"misc"}},[_v("Misc."),_c('a',{staticClass
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Action")]),_v(" "),_c('th',[_v("Format, Examples")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('strong',[_v("Help")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Clear")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Undo")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("undo")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Redo")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("redo")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Exit")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 6 Nov 2024, 15:41:43 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 6 Nov 2024, 16:46:33 GMT+8]")])])])}
 }];
   
