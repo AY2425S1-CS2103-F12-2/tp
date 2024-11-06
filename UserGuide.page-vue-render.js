@@ -101,10 +101,10 @@ with(this){return _c('p',[_c('strong',[_v("Format")]),_v(": "),_c('code',{pre:tr
 with(this){return _c('h5',{attrs:{"id":"notes-3"}},[_v("Notes"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#notes-3","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit_s")]),_v(" edits the student identified by the index. It only accepts a valid index\nbased on the list when list_s is called.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
+with(this){return _c('ol',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit_s")]),_v(" edits the student identified by the index. It only accepts a valid index\nbased on the list when "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list_s")]),_v(" is called.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-3"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-3","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-editing-bernice-yu-s-name"}},[_v("Scenario #1: Editing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Bernice Yu")]),_v("'s Name"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-editing-bernice-yu-s-name","onclick":"event.stopPropagation()"}})])}
@@ -131,7 +131,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-4"}},[_v("Notes"),_c('a',{staticCl
 with(this){return _c('ol',[_c('li',[_v("The group with the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Group Name")]),_v(" and student with the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Student Number")]),_v(" must both exist in T_Assistant.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-3"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-3","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-4"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-4","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-adding-james-ho-to-cs2103-f11-1"}},[_v("Scenario #1: Adding "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("James Ho")]),_v(" to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F11-1")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-adding-james-ho-to-cs2103-f11-1","onclick":"event.stopPropagation()"}})])}
@@ -158,7 +158,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-5"}},[_v("Notes"),_c('a',{staticCl
 with(this){return _c('ol',[_c('li',[_v("This feature only removes a student from a group, not from T_Assistant.")]),_v(" "),_c('li',[_v("The student and group must exist in T_Assistant.")]),_v(" "),_c('li',[_v("The student must be in that group.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-4"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-4","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-5"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-5","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-deleting-james-ho-from-cs2103-f11-1"}},[_v("Scenario #1: Deleting "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("James Ho")]),_v(" from "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F11-1")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-deleting-james-ho-from-cs2103-f11-1","onclick":"event.stopPropagation()"}})])}
@@ -188,7 +188,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("The command will only match full
 with(this){return _c('ol',{attrs:{"start":"2"}},[_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-5"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-5","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-6"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-6","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-find-students-with-the-following-queries-td7-and-oliveiro"}},[_v("Scenario #1: Find students with the following queries - "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("TD7")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Oliveiro")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-find-students-with-the-following-queries-td7-and-oliveiro","onclick":"event.stopPropagation()"}})])}
@@ -242,7 +242,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-7"}},[_v("Notes"),_c('a',{staticCl
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-2"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-2","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1","onclick":"event.stopPropagation()"}})])}
@@ -263,7 +263,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-8"}},[_v("Notes"),_c('a',{staticCl
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-3"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-3","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-2"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-2","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-2"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-2","onclick":"event.stopPropagation()"}})])}
@@ -284,7 +284,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-9"}},[_v("Notes"),_c('a',{staticCl
 with(this){return _c('ol',[_c('li',[_v("This command is case-insensitive.\n"),_c('blockquote',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("del_g gn/CS2103-F12-2")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("del_g gn/cs2103-f12-2")]),_v(" will delete the same group.")])])]),_v(" "),_c('li',[_v("This command will also remove students from the deleted group.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-6"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-6","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-7"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-7","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-deleting-a-group-cs2103-f12-2"}},[_v("Scenario #1: Deleting a group "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F12-2")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-deleting-a-group-cs2103-f12-2","onclick":"event.stopPropagation()"}})])}
@@ -311,7 +311,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-10"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-4"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-4","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-3"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-3","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-3"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-3","onclick":"event.stopPropagation()"}})])}
@@ -332,7 +332,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-11"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("This command is case-insensitive.")]),_v(" "),_c('li',[_v("The command will match substrings. You may search for part of a group's name such as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("F12")]),_v(" to find "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103T-F12-10")]),_v(".")]),_v(" "),_c('li',[_v("Searches the following field that a group has that matches the query:\n"),_c('ul',[_c('li',[_v("Group name")])])]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-7"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-7","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-8"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-8","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-find-groups-with-the-following-query-f12"}},[_v("Scenario #1: Find groups with the following query - "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("F12")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-find-groups-with-the-following-query-f12","onclick":"event.stopPropagation()"}})])}
@@ -359,7 +359,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-12"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-5"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-5","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-4"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-4","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-4"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-4","onclick":"event.stopPropagation()"}})])}
@@ -383,7 +383,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-13"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-6"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-6","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-5"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-5","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-5"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-5","onclick":"event.stopPropagation()"}})])}
@@ -404,7 +404,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-14"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-7"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-7","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-6"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-6","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-6"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-6","onclick":"event.stopPropagation()"}})])}
@@ -425,7 +425,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-15"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-8"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-8","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-7"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-7","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-7"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-7","onclick":"event.stopPropagation()"}})])}
@@ -446,7 +446,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-16"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("This command is case-insensitive.\n"),_c('blockquote',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("gn/CS2103-F12-2")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("gn/cs2103-f12-2")]),_v(" will be recognised as the same group.")])])]),_v(" "),_c('li',[_v("You can add an existing task to multiple groups.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-8"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-8","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-9"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-9","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-add-task-with-index-1-to-cs2103-s1-21"}},[_v("Scenario #1: Add task with index "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("1")]),_v(" to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-S1-21")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-add-task-with-index-1-to-cs2103-s1-21","onclick":"event.stopPropagation()"}})])}
@@ -485,7 +485,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-17"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-9"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-9","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-8"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-8","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-8"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-8","onclick":"event.stopPropagation()"}})])}
@@ -506,7 +506,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-18"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-10"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-10","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-9"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-9","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-9"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-9","onclick":"event.stopPropagation()"}})])}
@@ -527,7 +527,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-19"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-11"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-11","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-10"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-10","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-10"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-10","onclick":"event.stopPropagation()"}})])}
@@ -548,7 +548,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-20"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-12"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-12","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-11"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-11","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-11"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-11","onclick":"event.stopPropagation()"}})])}
@@ -569,7 +569,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-21"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-13"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-13","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-12"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-12","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-12"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-12","onclick":"event.stopPropagation()"}})])}
@@ -590,7 +590,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-22"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("This command is case-insensitive.")]),_v(" "),_c('li',[_v("The command will match substrings. You may search for part of a group's name such as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("tp")]),_v(" to find "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("tP v1.6 Release")]),_v(".")]),_v(" "),_c('li',[_v("Searches the following field that a group has that matches the query:\n"),_c('ul',[_c('li',[_v("Task name")])])]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-9"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-9","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-10"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-10","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-find-task-with-the-following-query-consultation"}},[_v("Scenario #1: Find task with the following query: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("consultation")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-find-task-with-the-following-query-consultation","onclick":"event.stopPropagation()"}})])}
@@ -611,7 +611,7 @@ with(this){return _c('h5',{attrs:{"id":"notes-23"}},[_v("Notes"),_c('a',{staticC
 with(this){return _c('ol',[_c('li',[_v("Are there anything that the command cannot do (e.g. cannot change Student Number) or what does it impact (e.g. will\nremove all students from this deleted group)")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-14"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-14","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h5',{attrs:{"id":"usage-scenario-for-commands-that-can-be-overloaded-13"}},[_v("Usage Scenario (for commands that can be overloaded)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-for-commands-that-can-be-overloaded-13","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-13"}},[_v("Scenario #1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-13","onclick":"event.stopPropagation()"}})])}
@@ -725,6 +725,6 @@ with(this){return _c('h3',{attrs:{"id":"misc"}},[_v("Misc."),_c('a',{staticClass
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Action")]),_v(" "),_c('th',[_v("Format, Examples")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('strong',[_v("Help")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Clear")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Undo")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("undo")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Redo")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("redo")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Exit")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 6 Nov 2024, 12:09:01 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 6 Nov 2024, 15:41:43 GMT+8]")])])])}
 }];
   
