@@ -392,7 +392,7 @@ with(this){return _c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lan
 with(this){return _c('ol',[_c('li',[_v("You can begin this command on any panel.")]),_v(" "),_c('li',[_v("Type "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-2 gn/CS2103-F11-1")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-2 gn/CS2103-F11-1")]),_v(".")])}
+with(this){return _c('p',[_v("This screenshot shows the result of executing\n"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-2 gn/CS2103-F11-1")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-2-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups"}},[_v("Scenario #2: Adding a task with the name of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Do Homework")]),_v(" and deadline of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2024-12-10 1900")]),_v(" to groups"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-2-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups","onclick":"event.stopPropagation()"}})])}
@@ -404,7 +404,7 @@ with(this){return _c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lan
 with(this){return _c('ol',[_c('li',[_v("You can begin this command on any panel.")]),_v(" "),_c('li',[_v("Type "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-2 gn/CS2103-F11-1")]),_v(".")]),_v(" "),_c('li',[_v("This will yield an error message.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-2 gn/CS2103-F11-1")]),_v(".")])}
+with(this){return _c('p',[_v("This screenshot shows the result of executing\n"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-2 gn/CS2103-F11-1")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-3-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups"}},[_v("Scenario #3: Adding a task with the name of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Do Homework")]),_v(" and deadline of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2024-12-10 1900")]),_v(" to groups"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-3-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups","onclick":"event.stopPropagation()"}})])}
@@ -413,10 +413,10 @@ with(this){return _c('h6',{attrs:{"id":"scenario-3-adding-a-task-with-the-name-o
 with(this){return _c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F13-2")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F11-1")]),_v(" when "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F13-1")]),_v(" does not exist.")])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("You can begin this command on any panel.")]),_v(" "),_c('li',[_v("Type "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F13-2 gn/CS2103-F11-1")]),_v(".")]),_v(" "),_c('li',[_v("Since "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F11-1")]),_v(" exists, the command will still allow you to add the task into the group. However, it will display\nan additional warning message regarding the input "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F13-1")]),_v(" which does not exist.")])])}
+with(this){return _c('ol',[_c('li',[_v("You can begin this command on any panel.")]),_v(" "),_c('li',[_v("Type "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F13-2 gn/CS2103-F11-1")]),_v(".")]),_v(" "),_c('li',[_v("Since "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F11-1")]),_v(" exists, the command will still allow you to add the task into the group. However, it will\ndisplay\nan additional warning message regarding the input "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F13-1")]),_v(" which does not exist.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F13-2 gn/CS2103-F11-1")]),_v(".")])}
+with(this){return _c('p',[_v("This screenshot shows the result of executing\n"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F13-2 gn/CS2103-F11-1")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-4-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups"}},[_v("Scenario #4: Adding a task with the name of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Do Homework")]),_v(" and deadline of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2024-12-10 1900")]),_v(" to groups"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-4-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups","onclick":"event.stopPropagation()"}})])}
@@ -428,7 +428,7 @@ with(this){return _c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lan
 with(this){return _c('ol',[_c('li',[_v("You can begin this command on any panel.")]),_v(" "),_c('li',[_v("Type "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F13-2 gn/CS2103-F14-1")]),_v(".")]),_v(" "),_c('li',[_v("Now, the command should throw an error message because both groups are non-existent.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F13-2 gn/CS2103-F14-1")]),_v(".")])}
+with(this){return _c('p',[_v("This screenshot shows the result of executing\n"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F13-2 gn/CS2103-F14-1")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('h5',{attrs:{"id":"scenario-5-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups"}},[_v("Scenario #5: Adding a task with the name of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Do Homework")]),_v(" and deadline of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2024-12-10 1900")]),_v(" to groups"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-5-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups","onclick":"event.stopPropagation()"}})])}
@@ -440,7 +440,7 @@ with(this){return _c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lan
 with(this){return _c('ol',[_c('li',[_v("You can begin this command on any panel.")]),_v(" "),_c('li',[_v("Type "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-1 gn/CS2103-F12-1")]),_v(".")]),_v(" "),_c('li',[_v("The command functionally ignores the duplicates and add the task into the group specified. It will also display a\nwarning message to you.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-1 gn/CS2103-F12-1")]),_v(".")])}
+with(this){return _c('p',[_v("This screenshot shows the result of executing\n"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-1 gn/CS2103-F12-1")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('h5',{attrs:{"id":"scenario-6-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups"}},[_v("Scenario #6: Adding a task with the name of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Do Homework")]),_v(" and deadline of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2024-12-10 1900")]),_v(" to groups"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-6-adding-a-task-with-the-name-of-do-homework-and-deadline-of-2024-12-10-1900-to-groups","onclick":"event.stopPropagation()"}})])}
@@ -452,7 +452,7 @@ with(this){return _c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lan
 with(this){return _c('ol',[_c('li',[_v("You can begin this command on any panel.")]),_v(" "),_c('li',[_v("Type "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F12-1 gn/CS2103-F12-1")]),_v(".")]),_v(" "),_c('li',[_v("The command should yield an error message.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F14-1 gn/CS2103-F14-1")]),_v(".")])}
+with(this){return _c('p',[_v("This screenshot shows the result of executing\n"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t_g tn/Do Homework td/2024-12-10 1900 gn/CS2103-F14-1 gn/CS2103-F14-1")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"adding-a-task-to-all-groups-add-t-at"}},[_v("Adding a Task to ALL Groups: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_t")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("at")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-task-to-all-groups-add-t-at","onclick":"event.stopPropagation()"}})])}
@@ -539,7 +539,7 @@ with(this){return _c('ol',[_c('li',[_v("The index must be valid and should be th
 with(this){return _c('h5',{attrs:{"id":"usage-scenario-13"}},[_v("Usage Scenario"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage-scenario-13","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list_t gn/CS2103-F11-1")]),_v(" to see the list of tasks in "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F11-1")]),_v(".")]),_v(" "),_c('li',[_v("After finding the task you wish to delete from this group, remember its index number (task with index 1 in this example).")]),_v(" "),_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("del_t_g i/1 gn/CS2103-S1-21")])])])}
+with(this){return _c('ol',[_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list_t gn/CS2103-F11-1")]),_v(" to see the list of tasks in "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F11-1")]),_v(".")]),_v(" "),_c('li',[_v("After finding the task you wish to delete from this group, remember its index number (task with index 1 in this\nexample).")]),_v(" "),_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("del_t_g i/1 gn/CS2103-S1-21")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h6',{attrs:{"id":"scenario-1-delete-task-with-index-1-from-cs2103-f11-1"}},[_v("Scenario #1 Delete task with index 1 from "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F11-1")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-delete-task-with-index-1-from-cs2103-f11-1","onclick":"event.stopPropagation()"}})])}
@@ -590,7 +590,7 @@ with(this){return _c('h5',{attrs:{"id":"usage-scenario-15"}},[_v("Usage Scenario
 with(this){return _c('h6',{attrs:{"id":"scenario-1-edit-a-task-with-index-1-in-cs2103-f12-1"}},[_v("Scenario #1 Edit a task with index 1 in "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F12-1")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-edit-a-task-with-index-1-in-cs2103-f12-1","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list_t gn/CS2103-F12-1")]),_v(" to see the list of tasks in "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F12-1")]),_v(".")]),_v(" "),_c('li',[_v("After finding the task you wish to delete from this group, remember its index number (task with index 1 in this example).")]),_v(" "),_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit_t_g i/1 gn/CS2103-F12-1 tn/v1.4 Release")])])])}
+with(this){return _c('ol',[_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list_t gn/CS2103-F12-1")]),_v(" to see the list of tasks in "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103-F12-1")]),_v(".")]),_v(" "),_c('li',[_v("After finding the task you wish to delete from this group, remember its index number (task with index 1 in this\nexample).")]),_v(" "),_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit_t_g i/1 gn/CS2103-F12-1 tn/v1.4 Release")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit_t_g i/1 gn/CS2103-F12-3 tn/v1.4 Release")]),_v(".")])}
@@ -617,7 +617,7 @@ with(this){return _c('h5',{attrs:{"id":"usage-scenario-16"}},[_v("Usage Scenario
 with(this){return _c('h6',{attrs:{"id":"scenario-1-edit-a-task-with-index-2"}},[_v("Scenario #1 Edit a task with index 2"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scenario-1-edit-a-task-with-index-2","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list_t")]),_v(" to see the task list.")]),_v(" "),_c('li',[_v("After finding the task you wish to delete from this group, remember its index number (task with index 2 in this example).")]),_v(" "),_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit_t i/2 tn/PE")])])])}
+with(this){return _c('ol',[_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list_t")]),_v(" to see the task list.")]),_v(" "),_c('li',[_v("After finding the task you wish to delete from this group, remember its index number (task with index 2 in this\nexample).")]),_v(" "),_c('li',[_v("Type and execute: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit_t i/2 tn/PE")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("This screenshot shows the result of executing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit_t i/2 tn/PE")]),_v(".")])}
@@ -722,7 +722,7 @@ with(this){return _c('p',[_c('strong',[_v("Format")]),_v(": "),_c('code',{pre:tr
 with(this){return _c('h5',{attrs:{"id":"notes-21"}},[_v("Notes"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#notes-21","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("If you first open the application, you will be unable to undo because there is no data to undo. You can only undo\nafter you have made changes to the application.")]),_v(" "),_c('li',[_v("You can only undo the commands which make changes to the application (add, delete, sort, mark, clear, edit commands), and\nnot the commands which do not make any changes (find, list, help, exit commands).")]),_v(" "),_c('li',[_v("For every change you make to the application, it will be added to the version history of the application.")]),_v(" "),_c('li',[_v("The application stores up to 100 version histories. Hence you will only be able to undo up to 100 of your most recent\nversions.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
+with(this){return _c('ol',[_c('li',[_v("If you first open the application, you will be unable to undo because there is no data to undo. You can only undo\nafter you have made changes to the application.")]),_v(" "),_c('li',[_v("You can only undo the commands which make changes to the application (add, delete, sort, mark, clear, edit commands),\nand\nnot the commands which do not make any changes (find, list, help, exit commands).")]),_v(" "),_c('li',[_v("For every change you make to the application, it will be added to the version history of the application.")]),_v(" "),_c('li',[_v("The application stores up to 100 version histories. Hence you will only be able to undo up to 100 of your most recent\nversions.")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"redoing-change-redo"}},[_v("Redoing change: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("redo")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#redoing-change-redo","onclick":"event.stopPropagation()"}})])}
@@ -734,7 +734,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('h5',{attrs:{"id":"notes-22"}},[_v("Notes"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#notes-22","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("If you first open the application, you will be unable to redo because there is no data to redo. You can only\nredo the application after at least one undo has been executed.")]),_v(" "),_c('li',[_v("You can only redo the commands which make changes to the application (add, delete, sort, mark, clear, edit commands), and\nnot the commands which do not make any changes (find, list, help, exit commands).")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
+with(this){return _c('ol',[_c('li',[_v("If you first open the application, you will be unable to redo because there is no data to redo. You can only\nredo the application after at least one undo has been executed.")]),_v(" "),_c('li',[_v("You can only redo the commands which make changes to the application (add, delete, sort, mark, clear, edit commands),\nand\nnot the commands which do not make any changes (find, list, help, exit commands).")]),_v(" "),_c('li',[_v("For information on the constraints for each parameter used in this command, go\nto "),_c('a',{attrs:{"href":"#command-parameters"}},[_v("Command Parameters")]),_v(".")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"viewing-help-help"}},[_v("Viewing help : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#viewing-help-help","onclick":"event.stopPropagation()"}})])}
@@ -827,6 +827,6 @@ with(this){return _c('h3',{attrs:{"id":"misc"}},[_v("Misc."),_c('a',{staticClass
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Action")]),_v(" "),_c('th',[_v("Format, Examples")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('strong',[_v("Help")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Clear")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Undo")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("undo")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Redo")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("redo")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Exit")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 21:45:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 22:11:23 GMT+8]")])])])}
 }];
   
