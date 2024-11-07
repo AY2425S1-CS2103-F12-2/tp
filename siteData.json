@@ -119,8 +119,6 @@
         "student-commands": "Student Commands",
         "group-commands": "Group Commands",
         "task-commands": "Task Commands",
-        "this-screenshot-shows-the-result-of-executing-del-t-g-i-1-gn-cs2103-f11-1": "This screenshot shows the result of executing del_t_g i/1 gn/CS2103-F11-1.\n",
-        "this-screenshot-shows-the-result-of-executing-edit-t-g-i-1-gn-cs2103-f12-3-tn-v1-4-release": "This screenshot shows the result of executing edit_t_g i/1 gn/CS2103-F12-3 tn/v1.4 Release.\n",
         "miscellaneous-commands": "Miscellaneous Commands",
         "data-handling": "Data Handling",
         "saving-the-data": "Saving the data",
