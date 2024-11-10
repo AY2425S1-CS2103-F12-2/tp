@@ -86,7 +86,12 @@
         "design-choices": "Design Choices",
         "challenges-faced": "Challenges Faced",
         "achievements": "Achievements",
-        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements",
+        "1-update-email-constraints": "1. Update Email Constraints",
+        "2-improve-ui": "2. Improve UI",
+        "3-improve-granularity-of-find-student-command": "3. Improve granularity of Find Student command",
+        "4-enhance-sort-group": "4. Enhance Sort Group",
+        "5-enhance-sort-student": "5. Enhance Sort Student"
       },
       "headingKeywords": {}
     },
