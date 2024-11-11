@@ -49,6 +49,7 @@
         "model-component": "Model component",
         "storage-component": "Storage component",
         "common-classes": "Common classes",
+        "interaction-between-entities": "Interaction between entities",
         "implementation": "Implementation",
         "delete-student-feature": "Delete Student Feature",
         "delete-group-feature": "Delete Group feature",
