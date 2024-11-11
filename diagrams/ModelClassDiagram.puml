@@ -24,8 +24,6 @@ Class Task
 Class I #FFFFFF
 }
 
-Class II #FFFFFF
-
 Class HiddenOutside #FFFFFF
 HiddenOutside ..> Model
 
@@ -51,11 +49,11 @@ ModelManager --> "~* filtered" Student
 ModelManager --> "~* filtered" Group
 ModelManager --> "~* filtered" Task
 
-Student -[hidden]right--> II
+Student -[hidden]up--> I
 UniqueStudentList -[hidden]right-> I
-Group -[hidden]right--> II
+Group -[hidden]up--> I
 UniqueGroupList -[hidden]down-> I
-Task -[hidden]right--> II
+Task -[hidden]down--> I
 UniqueTaskList -[hidden]down-> I
 
 
