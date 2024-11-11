@@ -51,6 +51,7 @@
         "common-classes": "Common classes",
         "interaction-between-entities": "Interaction between entities",
         "implementation": "Implementation",
+        "add-student-feature": "Add Student Feature",
         "delete-student-feature": "Delete Student Feature",
         "delete-group-feature": "Delete Group feature",
         "undo-redo-feature": "Undo/redo feature",
