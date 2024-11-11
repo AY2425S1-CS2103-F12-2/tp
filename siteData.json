@@ -54,6 +54,7 @@
         "add-student-feature": "Add Student Feature",
         "delete-student-feature": "Delete Student Feature",
         "delete-group-feature": "Delete Group feature",
+        "edit-task-for-group-feature": "Edit Task for Group feature",
         "undo-redo-feature": "Undo/redo feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
