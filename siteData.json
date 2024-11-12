@@ -91,7 +91,8 @@
         "4-enhance-sort-group": "4. Enhance Sort Group",
         "5-enhance-sort-student": "5. Enhance Sort Student",
         "6-better-parameter-mapping": "6. Better Parameter Mapping",
-        "7-enhance-undo-redo": "7. Enhance Undo/Redo"
+        "7-enhance-undo-redo": "7. Enhance Undo/Redo",
+        "8-bug-fix-edit-task-for-all-groups": "8. Bug fix - Edit Task for All Groups"
       },
       "headingKeywords": {}
     },
