@@ -49,7 +49,6 @@
         "model-component": "Model component",
         "storage-component": "Storage component",
         "common-classes": "Common classes",
-        "interaction-between-entities": "Interaction between entities",
         "implementation": "Implementation",
         "add-student-feature": "Add Student Feature",
         "delete-student-feature": "Delete Student Feature",
@@ -90,7 +89,9 @@
         "2-improve-ui": "2. Improve UI",
         "3-improve-granularity-of-find-student-command": "3. Improve granularity of Find Student command",
         "4-enhance-sort-group": "4. Enhance Sort Group",
-        "5-enhance-sort-student": "5. Enhance Sort Student"
+        "5-enhance-sort-student": "5. Enhance Sort Student",
+        "6-better-parameter-mapping": "6. Better Parameter Mapping",
+        "7-enhance-undo-redo": "7. Enhance Undo/Redo"
       },
       "headingKeywords": {}
     },
