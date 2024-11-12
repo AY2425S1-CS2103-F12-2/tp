@@ -11,7 +11,7 @@ with(this){return _c('h1',{attrs:{"id":"t-assistant-developer-guide"}},[_v("T_As
 with(this){return _c('h2',{attrs:{"id":"acknowledgements"}},[_c('strong',[_v("Acknowledgements")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#acknowledgements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Codebase adapted from "),_c('a',{attrs:{"href":"https://se-education.org/addressbook-level3/"}},[_v("AddressBook3")])]),_v(" "),_c('li',[_v("Libraries\nused: "),_c('a',{attrs:{"href":"https://openjfx.io/"}},[_v("JavaFX")]),_v(", "),_c('a',{attrs:{"href":"https://github.com/FasterXML/jackson"}},[_v("Jackson")]),_v(", "),_c('a',{attrs:{"href":"https://github.com/junit-team/junit5"}},[_v("JUnit5")])])])}
+with(this){return _c('ul',[_c('li',[_v("Codebase adapted from "),_c('a',{attrs:{"href":"https://se-education.org/addressbook-level3/"}},[_v("AddressBook3")])]),_v(" "),_c('li',[_v("Solution for Undo/Redo function adapted from "),_c('a',{attrs:{"href":"https://se-education.org/addressbook-level3/DeveloperGuide.html#proposed-undoredo-feature"}},[_v("AddressBook3 Developer Guide")])]),_v(" "),_c('li',[_v("Libraries\nused: "),_c('a',{attrs:{"href":"https://openjfx.io/"}},[_v("JavaFX")]),_v(", "),_c('a',{attrs:{"href":"https://github.com/FasterXML/jackson"}},[_v("Jackson")]),_v(", "),_c('a',{attrs:{"href":"https://github.com/junit-team/junit5"}},[_v("JUnit5")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"setting-up-getting-started"}},[_c('strong',[_v("Setting up, getting started")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#setting-up-getting-started","onclick":"event.stopPropagation()"}})])}
@@ -923,6 +923,6 @@ with(this){return _c('p',[_v("Currently, our system sorts "),_c('code',{pre:true
 with(this){return _c('h4',{attrs:{"id":"enhancement-5"}},[_v("Enhancement"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#enhancement-5","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 7:59:36 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 8:00:31 GMT+8]")])])])}
 }];
   
