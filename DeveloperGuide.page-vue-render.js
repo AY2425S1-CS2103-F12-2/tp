@@ -407,7 +407,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to list students.")]),_v("
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The Student parameters are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The Student parameters are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The selected Student does not exist.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Edit a Student")])])}
@@ -431,7 +431,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Find Student")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to find students with specific keywords.")])]),_v(" "),_c('li',[_c('p',[_v("T_Assistant processes the input and searches for students matching the keywords.")])]),_v(" "),_c('li',[_c('p',[_v("T_Assistant displays a list of students who match the search criteria.")])])])}
+with(this){return _c('ol',[_c('li',[_v("User requests to find students with specific keywords.")]),_v(" "),_c('li',[_v("T_Assistant processes the input and searches for students matching the keywords.")]),_v(" "),_c('li',[_v("T_Assistant displays a list of students who match the search criteria.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -467,7 +467,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to list groups.")]),_v(" "
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The Group parameters are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The Group already exits.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The Group parameters are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The Group already exists.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Delete a Group")])])}
@@ -482,7 +482,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to list Groups.")]),_v(" "
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The Group parameters are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The Group parameters are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The selected Group does not exist.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Edit a Group")])])}
@@ -527,7 +527,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to list all students.")]),
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The Student/Group parameters are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The Student/Group parameters are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The selected Student does not exist.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. T_Assistant shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: List all Groups")])])}
@@ -611,7 +611,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Delete Task from Group")])]
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User requests to remove a task from a specified group.")]),_v(" "),_c('li',[_v("T_Assistant displays all current tasks for the group.")])])}
+with(this){return _c('ol',[_c('li',[_v("User requests to remove a task from a specified group.")]),_v(" "),_c('li',[_v("T_Assistant removes a task from the group displays all current tasks for the group.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -941,6 +941,6 @@ with(this){return _c('p',[_v("i.e. if user undoes a "),_c('code',{pre:true,attrs
 with(this){return _c('p',[_v("Similarly, if the user then runs "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("redo")]),_v(", they will be informed that they are redoing the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_g")]),_v(" command.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 11:54:11 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 12:19:03 GMT+8]")])])])}
 }];
   
